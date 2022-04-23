@@ -171,6 +171,14 @@
         android:summary="@string/cache_cleaner_summary"
         android:defaultValue="false"
         app:position="middle" />
+    
+    <!-- Application Downgrade -->
+    <com.rising.settings.preferences.SystemSettingSwitchPreference
+        android:key="pm_downgrade_allowed"
+        android:title="@string/miscellaneous_app_downgrade_title"
+        android:summary="@string/miscellaneous_app_downgrade_summary"
+        android:defaultValue="false" 
+        app:position="middle" />
 
     <!-- Three-fingers-swipe to screenshot -->
     <com.rising.settings.preferences.SystemSettingSwitchPreference
