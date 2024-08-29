@@ -1660,4 +1660,8 @@
     <string name="keywords_adaptive_charging">charge, charging, smart charging, adaptive charging, battery, batt battery health</string>
     <string name="reverse_charging_title">Reverse charging</string>
     <string name="keywords_battery_share_settings">battery, share, batt</string>
+
+    <!-- Cache cleaner -->
+    <string name="cache_cleaner_title">Cache Cleaner</string>
+    <string name="cache_cleaner_summary">Enable the cache cleaner service to automatically clear app caches.</string>
 </resources>
